@@ -23,9 +23,9 @@ func printPass() {
 }
 
 print("How many passwords would you like to generate? ")
-var num = Int(readLine(strippingNewline: true)!)
+var numOfPasswords = Int(readLine(strippingNewline: true)!)
 
-var eachpass = (0..<num!)
+var eachpass = (0..<numOfPasswords!)
 
 for _ in eachpass {
     printPass()
