@@ -1,5 +1,5 @@
 // This program does the same thing as the other file, but instead prints the user specified amount of Passwords on each iteration.
-// While un-deplyable to a server right now, this project could theoretically be used for a brute-force password cracker under the right hands. 
+// While un-deployable to a server right now, this project could theoretically be used for a brute-force password cracker under the right hands. 
 
 import Foundation
 
